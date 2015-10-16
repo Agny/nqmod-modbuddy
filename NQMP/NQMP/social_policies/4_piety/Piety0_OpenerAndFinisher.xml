@@ -24,7 +24,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP" />
 		<Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Piety[ENDCOLOR] increases the [ICON_PEACE] Faith of empires.[NEWLINE][NEWLINE]Adopting Piety provides you with +1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith in the [ICON_CAPITAL] Capital and allows you to build Shrines and Temples in half the usual time. Unlocks building Stonehenge.[NEWLINE][NEWLINE]Adopting all Policies in the Piety tree causes a Great Prophet to appear and provides +4 [ICON_PRODUCTION] from the Grand Temple. Holy Sites provide +1 [ICON_FOOD] Food and +3 [ICON_CULTURE] Culture.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Набожность[ENDCOLOR] способствует развитию [ICON_PEACE] веры в государстве.[NEWLINE][NEWLINE]Принятие института набожности дает +1 [ICON_CULTURE] к культуре и +1 [ICON_PEACE] к вере в [ICON_CAPITAL] столице и позволяет строить святилища и храмы в 2 раза быстрее. Открывает постройку Стоунхенджа.[NEWLINE][NEWLINE]После принятия всех общественных институтов набожности рядом со столицей появляется великий пророк. Великий храм дает +4 [ICON_PRODUCTION] к производству. Святыни дают +1 [ICON_FOOD] к пище и +3 [ICON_CULTURE] к культуре.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -100,7 +100,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP" />
 		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]All Missionaries born in this city can spread religion three times. Provides a free Mosque in the city in which it is built.</Text>
+			<Text>Миссионеры, рожденные в этом городе, теперь могут распространять религию 3 раза. Дает бесплатную мечеть в городе, в котором было построено чудо.</Text>
 		</Row>
 		<!-- This is now updated in /wonders_world/StonehengeChanges.xml
 		<Delete Tag="TXT_KEY_WONDER_STONEHENGE_HELP" />

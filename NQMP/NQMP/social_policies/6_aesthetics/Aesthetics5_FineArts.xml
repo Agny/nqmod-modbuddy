@@ -52,7 +52,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_FINE_ARTS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_FINE_ARTS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Fine Arts[ENDCOLOR][NEWLINE]Provides a free Scriptorium, Gallery, and Conservatory in your first 4 cities. Amphitheaters, Opera Houses, Museums, and Broadcast Towers increase city [ICON_TOURISM] Tourism output by 25%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Изящные искусства[ENDCOLOR][NEWLINE]Дает бесплатные скрипториум, галерею и консерваторию в первых четырех городах. Амфитеатры, оперы, музеи и радиовышки увеличивают приток [ICON_TOURISM] туризма на 25%.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -117,10 +117,10 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_SCRIPTORIUM_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Scriptorium</Text>
+			<Text>Скрипториум</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SCRIPTORIUM_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Civilizations that adopt Fine Arts will receive a Scriptorium in their first 4 cities, which provides 1 [ICON_CULTURE] Culture as well as a Writer Specialist Slot.</Text>
+			<Text>Принятие общественного института "Изящные искусства" дает бесплатный скрипториум в первых четырех городах державы. Скрипториум дает +1 [ICON_CULTURE] к культуре и содержит слот литературного шедевра.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -179,10 +179,10 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_GALLERY_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Gallery</Text>
+			<Text>Галерея</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GALLERY_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Civilizations that adopt Fine Arts will receive a Gallery in their first 4 cities, which provides 1 [ICON_HAPPINESS_1] Happiness as well as an Artist Specialist Slot.</Text>
+			<Text>Принятие общественного института "Изящные искусства" дает бесплатную галерею в первых четырех городах державы. Галерея дает +1 [ICON_CULTURE] настроения и содержит слот шедевра изобразительного искусства.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -242,10 +242,10 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_CONSERVATORY_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Conservatory</Text>
+			<Text>Консерватория</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CONSERVATORY_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Civilizations that adopt Fine Arts will receive a Conservatory in their first 4 cities, which provides 1 [ICON_TOURISM] Tourism as well as a Musician Specialist Slot.</Text>
+			<Text>Принятие общественного института "Изящные искусства" дает бесплатную консерваторию в первых четырех городах державы. Консерватория дает +1 [ICON_CULTURE] к туризму и содержит слот музыкального шедевра.</Text>
 		</Row>
 	</Language_RU_RU>
 

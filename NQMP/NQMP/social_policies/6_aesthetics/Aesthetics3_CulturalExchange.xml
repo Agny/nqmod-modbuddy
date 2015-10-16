@@ -89,7 +89,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_ETHICS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_ETHICS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Cultural Exchange[ENDCOLOR][NEWLINE]A Great Writer appears. +1 [ICON_CULTURE] Culture from every Trading Post, Moai, Brazilwood Camp, Chateau, and Great Person tile improvement.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Культурный обмен[ENDCOLOR][NEWLINE]Торговые посты, моаи, вырубки красного дерева, шато и улучшения великих людей дают +1 [ICON_CULTURE] к культуре. Появляется великий писатель.</Text>
 		</Row>
 	</Language_RU_RU>
 

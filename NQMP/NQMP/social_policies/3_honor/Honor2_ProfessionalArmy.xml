@@ -91,7 +91,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP" />
 		<Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Professional Army[ENDCOLOR][NEWLINE]Barracks, Armories, and Military Academies are built twice as fast, and they each provide +1 [ICON_PRODUCTION] Production, +1 [ICON_CULTURE] Culture, and +1 [ICON_GOLD] Gold.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Профессиональная армия[ENDCOLOR][NEWLINE]Казармы, арсеналы и военные академии дают +1 [ICON_PRODUCTION] к производству, +1 [ICON_CULTURE] к культуре, +1 [ICON_GOLD] к золоту и строятся в 2 раза быстрее.</Text>
 		</Row>
 	</Language_RU_RU>
 

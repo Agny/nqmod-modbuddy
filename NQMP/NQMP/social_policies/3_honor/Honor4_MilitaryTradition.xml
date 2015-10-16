@@ -57,7 +57,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Military Tradition[ENDCOLOR][NEWLINE]Gold cost of upgrading Military Units reduced by 25%. Courthouses provide +4 [ICON_FOOD] Food, +4 [ICON_PRODUCTION] Production, and +4 [ICON_GOLD] Gold and are built in half the usual time.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Воинские традиции[ENDCOLOR][NEWLINE]Сокращает на 25% затраты на модернизацию войск. Суды строятся в 2 раза быстрее и дают +4 [ICON_FOOD] к пище, +4 [ICON_PRODUCTION] к производству и +4 [ICON_GOLD] к золоту.</Text>
 		</Row>
 	</Language_RU_RU>
 

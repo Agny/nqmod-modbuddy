@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Merchant Confederacy[ENDCOLOR][NEWLINE]+2 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production, +2 [ICON_GOLD] Gold, and +1 [ICON_INFLUENCE] Influence per turn for trade routes with City-States.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Федерация торговцев[ENDCOLOR][NEWLINE]+2 [ICON_FOOD] к пище, +2 [ICON_PRODUCTION] к продукции, +2 [ICON_GOLD] к золоту и +1 [ICON_INFLUENCE] к очкам влияния в ход от торговых путей в города-государства.</Text>
 		</Row>
 	</Language_RU_RU>
 

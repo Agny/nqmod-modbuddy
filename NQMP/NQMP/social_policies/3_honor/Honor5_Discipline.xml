@@ -65,11 +65,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_DISCIPLINE_HELP" />
 		<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Discipline[ENDCOLOR][NEWLINE]+10% [ICON_STRENGTH] combat strength for Land Units and military units gain 50% more Experience from combat.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Дисциплина[ENDCOLOR][NEWLINE]+10% [ICON_STRENGTH] к боевой мощи наземных войск. Подразделения получают на 50% больше опыта в бою.</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP" />
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+10% [ICON_STRENGTH] Combat Strength.</Text>
+			<Text>+10% [ICON_STRENGTH] к боевой мощи.</Text>
 		</Row>
 	</Language_RU_RU>
 

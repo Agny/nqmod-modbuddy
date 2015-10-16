@@ -24,7 +24,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Aesthetics[ENDCOLOR] improves the civilization's ability to generate [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Adopting Aesthetics allows you to earn Great Writers, Artists, and Musicians 25% faster. Unlocks building Uffizi.[NEWLINE][NEWLINE]Adopting all policies doubles both the speed at which Archaeologists are trained and the theming bonus you receive from Museums and Wonders. It also reveals Hidden Antiquity Sites and and allows the purchase of Great Writers, Artists, or Musicians with [ICON_PEACE] Faith starting in the Industrial Era. Grants 1 free Social Policy upon completing the tree.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Эстетика[ENDCOLOR] помогает цивилизации генерировать [ICON_CULTURE] очки культуры.[NEWLINE][NEWLINE]Принятие Эстетики позволит вам получать великих писателей, художников и музыкантов на 25% быстрее. Открывает постройку галереи Уффици.[NEWLINE][NEWLINE]Принятие всех общественных институтов эстетики удваивает тематический бонус, который вы получаете от музеев и чудес, и дает 1 бесплатный общественный институт. Удваивает скорость найма археологов и позволяет видеть скрытые исторические места. Также позволяет приобретать великих писателей, художников или музыкантов за очки [ICON_PEACE] веры начиная с новейшего времени.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -138,16 +138,16 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_MONUMENT_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Grand Monument</Text>
+			<Text>Великий памятник</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_MONUMENT_PEDIA">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Grand Monument is your reward when you complete the Aesthetics Social Policy Tree. It grants you 1 free Social Policy.</Text>
+			<Text>Великий памятник вы можете получить, приняв все общественные институты древа "Эстетика". Дает 1 бесплатный общественный институт.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GRAND_MONUMENT_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Grand Monument is your reward when you complete the Aesthetics Social Policy Tree. It grants you 1 free Social Policy.</Text>
+			<Text>Великий памятник вы можете получить, приняв все общественные институты древа "Эстетика". Дает 1 бесплатный общественный институт.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNITCOMBAT_ARCHAEOLOGIST">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Archaeologist Units</Text>
+			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Archaeologist Units</Text><!-- What does it mean? -->
 		</Row>
 	</Language_RU_RU>
 	
@@ -185,11 +185,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP" />
 		<Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]When improved with an Archaeological Dig, a Hidden Antiquity Site can then yield an Artifact that can be placed in a Great Work of Art slot, or be transformed into a Landmark improvement. Hidden Antiquity Sites are only visible to civs that have all the policies in the Aesthetics policy tree.</Text>
+			<Text>При проведении археологических раскопок на месте скрытого античного поселения можно найти артефакт, который затем можно разместить в ячейке шедевра изобразительного искусства, или создать памятник. Скрытые античные поселения видны только тем державам, которые приняли все общественные институты эстетики.</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_CULTURE_ANTIQUITY_HEADING2_BODY" />
 		<Row Tag="TXT_KEY_CULTURE_ANTIQUITY_HEADING2_BODY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To take advantage of an Antiquity Site, you must first build an Archaeologist. Archaeologists are units that can only be constructed in a city with a University. Once built, send him to any Antiquity Site (Open Borders are required for other civilizations), and once they arrive, select the "Construct Archaeological Dig" option on the Unit panel. After a set number of turns, you will have the option to either extract an Artifact, or create a Landmark.[NEWLINE][NEWLINE]If you complete the Aesthetics Social Policy tree, you will also reveal Hidden Antiquity Sites. These special Antiquity sites not only yield up Artifacts like regular Antiquity Sites, but there is also a chance you will find a special Great Work of Writing Artifact, like the Rosetta Stone. You can use this like a Great Work of Writing, or you can choose to start a Cultural Renaissance, which will grant you a large amount of Culture.</Text>
+			<Text>Чтобы обработать историческое место, необходимо нанять археолога. Археологов можно нанимать только в городах с университетом. После найма отправьте отряд на историческое место (в случае, если оно расположено на территории другой державы, необходим договор об открытых границах) и выберите действие "Провести раскопки". Спустя определенное количество ходов вам предложат создать артефакт или построить улучшение "памятник".[NEWLINE][NEWLINE]В случае, если вы приняли все общественные институты эстетики, вы увидите скрытые античные поселения. При раскопке таких исторических мест есть шанс получить не обычный артефакт, а уникальную литературную работу (розеттский камень). Вы можете использовать ее как литературный шедевр или же получить культурный подъем, который единоразово даст большое количество очков культуры вашей державе.</Text>
 		</Row>
 	</Language_RU_RU>
 

@@ -41,7 +41,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP" />
 		<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Warrior Code[ENDCOLOR][NEWLINE]4 units are maintenance free, and receive 2 Warriors immediately. Gain [ICON_GOLD] Gold for each enemy unit killed.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Кодекс чести[ENDCOLOR][NEWLINE]4 подразделения не требуют содержания, у столицы появляются 2 отряда воинов. Дает [ICON_GOLD] золото за каждого убитого врага.</Text>
 		</Row>
 	</Language_RU_RU>
 

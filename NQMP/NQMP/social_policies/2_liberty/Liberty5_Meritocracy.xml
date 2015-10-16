@@ -34,7 +34,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MERITOCRACY_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MERITOCRACY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Meritocracy[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness and +15% [ICON_GOLD] Gold income from [ICON_CONNECTED] City Connections. -5% [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Citizens in non-occupied Cities.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Меритократия[ENDCOLOR][NEWLINE]Улучшает на +1 [ICON_HAPPINESS_1] настроение и дает +15% [ICON_GOLD] к золоту для каждого города, [ICON_CONNECTED] связанного со столицей. Сокращает на 5% [ICON_HAPPINESS_4] недовольство от [ICON_CITIZEN] граждан в неоккупированных городах.</Text>
 		</Row>
 	</Language_RU_RU>
 

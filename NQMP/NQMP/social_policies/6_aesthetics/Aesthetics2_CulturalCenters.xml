@@ -55,7 +55,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Cultural Centers[ENDCOLOR][NEWLINE]Amphitheaters, Opera Houses, Museums and Broadcast Towers provide +1 [ICON_CULTURE] Culture and are built in half the usual time.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Культурные центры[ENDCOLOR][NEWLINE]Амфитеатры, оперы, музеи и радиовышки строятся в два раза быстрее и дают +1 [ICON_CULTURE] к культуре.</Text>
 		</Row>
 	</Language_RU_RU>
 

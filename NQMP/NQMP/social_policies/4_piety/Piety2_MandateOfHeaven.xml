@@ -32,7 +32,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Mandate of Heaven[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith in the Capital. 20% discount on all purchases of religious units and buildings with [ICON_PEACE] Faith.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Небесный мандат[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] к вере в столице. Покупка религиозных подразделений и зданий за очки [ICON_PEACE] веры на 20% дешевле.</Text>
 		</Row>
 	</Language_RU_RU>
 

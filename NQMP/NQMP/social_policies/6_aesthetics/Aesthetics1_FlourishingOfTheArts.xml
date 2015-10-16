@@ -37,7 +37,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Flourishing of the Arts[ENDCOLOR][NEWLINE]+2 [ICON_CULTURE] Culture from every Great Work and World Wonder. The empire immediately enters a [ICON_GOLDEN_AGE] Golden Age.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Расцвет искусства[ENDCOLOR][NEWLINE]Шедевры и чудеса дают +2 [ICON_CULTURE] к культуре. Начинает в державе [ICON_GOLDEN_AGE] золотой век.</Text>
 		</Row>
 	</Language_RU_RU>
 

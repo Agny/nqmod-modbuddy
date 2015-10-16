@@ -44,7 +44,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_THEOCRACY_HELP" />
 		<Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Theocracy[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from each Shrine and Temple.[NEWLINE]Holy Sites provide +3 [ICON_GOLD] Gold.[NEWLINE]The Grand Temple boosts [ICON_GOLD] Gold output in its city by 50%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Теократия[ENDCOLOR][NEWLINE]Святилища и храмы дают +1 [ICON_GOLD] к золоту.[NEWLINE]Святыни дают +3 [ICON_GOLD] к золоту.[NEWLINE]Великий храм увеличивает на 50% приток [ICON_GOLD] золота в городе, где он построен.</Text>
 		</Row>
 	</Language_RU_RU>
 
