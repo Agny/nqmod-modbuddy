@@ -54,11 +54,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_CARAVANS" />
 		<Row Tag="TXT_KEY_POLICY_CARAVANS">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Silk Road</Text>
+			<Text>Караваны фургонов</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_POLICY_CARAVANS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_CARAVANS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Silk Road[ENDCOLOR][NEWLINE]+3 [ICON_GOLD] Gold from all your foreign and internal trade routes. +1 [ICON_CULTURE] Culture from Harbors and Caravansaries.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Караваны фургонов[ENDCOLOR][NEWLINE]+3 [ICON_GOLD] от всех наземных торговых путей. Гавань и караван-сарай дают дополнительно +1 [ICON_CULTURE].</Text>
 		</Row>
 	</Language_RU_RU>
 

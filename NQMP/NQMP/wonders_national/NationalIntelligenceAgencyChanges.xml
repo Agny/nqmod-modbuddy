@@ -36,7 +36,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP" />
 		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides an additional spy and levels up all your existing spies. Also provides a 15% reduction in enemy spy effectiveness. Must have a Constabulary in all cities.</Text>
+			<Text>Дает дополнительного шпиона и повышает ранг у всех существующих. Кроме того, сокращает эффективность вражеских агентов на 15%. Для постройки необходимы жандармерии во всех городах.</Text>
 		</Row>
 	</Language_RU_RU>
 

@@ -24,7 +24,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP" />
 		<Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Rationalism[ENDCOLOR] improves the ability to use and generate [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Adopting Rationalism allows you to earn Great Scientists 25% faster. Unlocks building the Porcelain Tower.[NEWLINE][NEWLINE]Adopting all Policies in the Rationalism tree will grant +10% [ICON_RESEARCH] Science while the empire is [ICON_HAPPINESS_1] Happy. It also allows the purchase of Great Scientists with [ICON_PEACE] Faith starting in the Industrial Era.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Рационализм[ENDCOLOR] способствует [ICON_RESEARCH] научному развитию государства.[NEWLINE][NEWLINE]Принятие рационализма ускоряет появление великих ученых на 25%. Открывает постройку Фарфоровой пагоды.[NEWLINE][NEWLINE]Принятие всех общественных институтов рационализма ускоряет научное развитие на +10%, [ICON_RESEARCH] если население государства [ICON_HAPPINESS_1] довольно. Также позволяет приобретать великих ученых за счет  [ICON_PEACE] веры, начиная с новейшего времени.</Text>
 		</Row>
 	</Language_RU_RU>
 

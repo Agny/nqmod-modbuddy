@@ -47,11 +47,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_PEACE_LOVING_SHORT" />
 		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING_SHORT">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Baptisms</Text>
+			<Text>Миролюбие</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_BELIEF_PEACE_LOVING" />
 		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_HAPPINESS_1] Global Happiness for every 8 followers of this religion in foreign cities</Text>
+			<Text>Дает +1 [ICON_HAPPINESS_1] к настроению в державе за каждые 8 последователей этой религии в чужих городах.</Text>
 		</Row>
 	</Language_RU_RU>
 

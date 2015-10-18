@@ -65,7 +65,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_DISCIPLINE_HELP" />
 		<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Дисциплина[ENDCOLOR][NEWLINE]+10% [ICON_STRENGTH] к боевой мощи наземных войск. Подразделения получают на 50% больше опыта в бою.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Дисциплина[ENDCOLOR][NEWLINE]+10% [ICON_STRENGTH] к боевой мощи сухопутных войск. Подразделения получают на 50% больше опыта в бою.</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP" />
 		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">

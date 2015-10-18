@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP" />
 		<Row Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are all filled with Writings from different Eras.</Text>
+			<Text>Чтобы получить максимальную премию, убедитесь, что все ячейки шедевров заполнены литературными произведениями разных эпох.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -63,7 +63,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP" />
 		<Row Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are all filled with Art from different Eras.</Text>
+			<Text>Чтобы получить максимальную премию, убедитесь, что все ячейки шедевров заполнены произведениями изобразительного искусства разных эпох.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -96,7 +96,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP" />
 		<Row Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are all filled with Writings from different Eras.</Text>
+			<Text>Чтобы получить максимальную премию, убедитесь, что все ячейки шедевров заполнены литературными произведениями разных эпох.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -127,9 +127,9 @@
 		</Row>
 	</Language_PL_PL>
 	<Language_RU_RU>
-		<Delete Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP" />
-		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are filled with 2 Great Works of Art and 2 Artifacts with all 4 being from different Eras.</Text>
+		<Delete Tag="TXT_KEY_LOUVRE_THEMING_BONUS_HELP" />
+		<Row Tag="TXT_KEY_LOUVRE_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальную премию, убедитесь, что все ячейки шедевров заполнены 2 произведениями изобразительного искусства и 2 артефактами, причем все 4 принадлежат к разным эпохам.</Text>
 		</Row>
 	</Language_RU_RU>
 

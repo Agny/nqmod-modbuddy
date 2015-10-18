@@ -35,7 +35,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_WONDER_STONEHENGE_HELP" />
 		<Row Tag="TXT_KEY_WONDER_STONEHENGE_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Piety. [ICON_CULTURE] Culture and [ICON_GOLD] Gold costs of acquiring new tiles reduced by 25% in every city. Grants 150 Faith (on Standard Speed) when built.</Text>
+			<Text>Требуется набожность. Снижает на 25% затраты [ICON_CULTURE] культуры и [ICON_GOLD] золота при приобретении новых клеток во всех городах. При строительстве дает 150 очков веры (на стандартной скорости игры).</Text>
 		</Row>
 	</Language_RU_RU>
 

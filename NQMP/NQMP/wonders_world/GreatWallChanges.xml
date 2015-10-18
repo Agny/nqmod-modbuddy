@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_WONDER_GREAT_WALL_HELP" />
 		<Row Tag="TXT_KEY_WONDER_GREAT_WALL_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides a Watch Tower for free in all cities. Also provides Walls for free in the city in which it is built.</Text>
+			<Text>Во всех городах державы появляются сторожевые башни. Дает стены в городе, где построено чудо.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -105,16 +105,16 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Watch Tower</Text>
+			<Text>Сторожевая башня</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Watch Tower</Text>
+			<Text>Сторожевая башня</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER_PEDIA">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]This is one of the many Watch Towers built along the Great Wall.</Text>
+			<Text>Это одна из многих сторожевых башен, построенных вместе с Великой стеной.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Watch Towers increase a city's Defense Strength by 5 and Hit Points by 50.</Text>
+			<Text>Сторожевые башни увеличивают обороноспособность города на 5 очков и ОЗ - на 50.</Text>
 		</Row>
 	</Language_RU_RU>
 

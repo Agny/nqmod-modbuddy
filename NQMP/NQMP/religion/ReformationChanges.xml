@@ -39,7 +39,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT" />
 		<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Your spies exert religious pressure on the cities they occupy and +1 [ICON_RESEARCH] Science for every 3 followers of this religion in other civilizations.</Text>
+			<Text>Ваши шпионы оказывают религиозное давление на города, которые они занимают. Дает +1 [ICON_RESEARCH] за каждых 3 последователей в других цивилизациях.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -74,7 +74,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS" />
 		<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Inquisitors and Prophets reduce this religion's presence by half (instead of eliminating it) and Holy Sites provide +6 [ICON_PEACE] Faith.</Text>
+			<Text>Инквизиторы и пророки сокращают влияние этой религии наполовину (вместо того, чтобы полностью ее уничтожить). Святыни дают +6 [ICON_PEACE]</Text>
 		</Row>
 	</Language_RU_RU>
 

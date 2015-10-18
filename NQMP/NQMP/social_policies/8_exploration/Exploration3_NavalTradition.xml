@@ -47,7 +47,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP" />
 		<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Naval Tradition[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness and +1 [ICON_CULTURE] Culture for each Harbor, Seaport, or Lighthouse.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Флотские традиции[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] и +1 [ICON_CULTURE] за каждую гавань, морской порт и маяк.</Text>
 		</Row>
 	</Language_RU_RU>
 

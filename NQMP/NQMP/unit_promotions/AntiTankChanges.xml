@@ -42,11 +42,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_PROMOTION_ANTI_TANK" />
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Bonus vs Tanks (200)</Text>
+			<Text>Бонус против танков (200)</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK" />
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Bonus vs Tanks (200)</Text>
+			<Text>Бонус против танков (200)</Text>
 		</Row>
 	</Language_RU_RU>
 

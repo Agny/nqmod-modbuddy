@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP" />
 		<Row Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Scientific Revolution[ENDCOLOR][NEWLINE]Grants a free Technology.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Научная революция[ENDCOLOR][NEWLINE]Дает бесплатную технологию.</Text>
 		</Row>
 	</Language_RU_RU>
 

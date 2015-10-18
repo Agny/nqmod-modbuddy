@@ -38,7 +38,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_HUMANISM_HELP" />
 		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Humanism[ENDCOLOR][NEWLINE]+17% [ICON_RESEARCH] Science from Universities.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Гуманизм[ENDCOLOR][NEWLINE]+17% [ICON_RESEARCH] к науке от университетов.</Text>
 		</Row>
 	</Language_RU_RU>
 

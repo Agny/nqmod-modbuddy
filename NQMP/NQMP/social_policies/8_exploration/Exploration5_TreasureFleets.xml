@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Treasure Fleets[ENDCOLOR][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold from Coast and Ocean tiles without sea resources.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Серебряный флот[ENDCOLOR][NEWLINE]+1 [ICON_FOOD] к пище, +1 [ICON_PRODUCTION] к производству и +1 [ICON_GOLD] к золоту за каждую обрабатываемую клетку побережья или океана без ресурсов</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -129,13 +129,13 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_TREASURE_FLEETS_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Warehouse</Text>
+			<Text>Склад</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TREASURE_FLEETS_PEDIA">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]A Warehouse is automatically constructed in every city after you have adopted the Treasure Fleets social policy.</Text>
+			<Text>После принятия общественного института "Серебряный флот" в городах державы появляется склад</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TREASURE_FLEETS_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides +1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold from all Coast and Ocean tiles without sea resources.</Text>
+			<Text>Дает +1 [ICON_FOOD] к пище, +1 [ICON_PRODUCTION] к производству и +1 [ICON_GOLD] к золоту за каждую обрабатываемую клетку побережья или океана без ресурсов</Text>
 		</Row>
 	</Language_RU_RU>
 

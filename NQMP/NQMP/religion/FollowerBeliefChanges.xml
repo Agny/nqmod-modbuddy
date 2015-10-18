@@ -32,7 +32,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_FEED_WORLD" />
 		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Shrines provide +1 [ICON_FOOD] Food and Temples provide +3 [ICON_FOOD] Food</Text>
+			<Text>Святилища дают +1 [ICON_FOOD], храмы +3 [ICON_FOOD] к пище</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -89,7 +89,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA" />
 		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Ampitheaters and Opera Houses provide +2 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture</Text>
+			<Text>Амфитеатры и оперы дают +2 [ICON_PEACE] к вере и +1 [ICON_CULTURE] к культуре.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -133,7 +133,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_PAGODAS" />
 		<Row Tag="TXT_KEY_BELIEF_PAGODAS">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Use [ICON_PEACE] Faith to purchase Pagodas (+2 [ICON_FOOD] Food, +2 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, +1 [ICON_HAPPINESS_1] Happiness)</Text>
+			<Text>Можно строить пагоды (+2 [ICON_FOOD] к пище, +2 [ICON_PEACE] к вере, +1 [ICON_CULTURE] к культуре, +1 [ICON_HAPPINESS_1] к настроению) за очки [ICON_PEACE] веры</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -180,7 +180,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER" />
 		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Temples provide +1 [ICON_HAPPINESS_1] Happiness, +1 [ICON_PRODUCTION] Production, and +1 Gold [ICON_GOLD] in cities with 5 followers</Text>
+			<Text>Храм дает +1 [ICON_HAPPINESS_1] к настроению, +1 [ICON_PRODUCTION] к производству и +1 [ICON_GOLD] к золоту в городах с 5 почитателями.</Text>
 		</Row>
 	</Language_RU_RU>
 
@@ -220,7 +220,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES" />
 		<Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_FOOD] Food and 25% faster [ICON_FOOD] Growth Rate for all cities</Text>
+			<Text>В мирное время дает +1 [ICON_FOOD] к пище и ускоряет [ICON_FOOD] рост городов на 25%.</Text>
 		</Row>
 	</Language_RU_RU>
 

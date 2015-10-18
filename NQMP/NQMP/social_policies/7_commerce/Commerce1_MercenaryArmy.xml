@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP" />
 		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Mercenary Army[ENDCOLOR][NEWLINE]Allows the purchasing of Landsknechts at Civil Service and Foreign Legions at Replaceable Parts.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Наемная армия[ENDCOLOR][NEWLINE]Позволяет приобретать ландскнехтов после изучения государственной службы и иностранный легион после изучения механизации.</Text>
 		</Row>
 	</Language_RU_RU>
 	

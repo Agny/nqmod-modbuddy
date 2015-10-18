@@ -179,7 +179,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP" />
 		<Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Rationalism. +2 [ICON_RESEARCH] Science on all Luxury resource tiles worked by the city, and a Great Scientist appears.</Text>
+			<Text>Требуется рационализм. +2 [ICON_RESEARCH] за каждый ресурс роскоши, обрабатываемый городом. Рядом с городом появляется великий ученый.</Text>
 		</Row>
 	</Language_RU_RU>
 

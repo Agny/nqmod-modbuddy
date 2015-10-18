@@ -42,11 +42,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MERCHANT_NAVY" />
 		<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Colonialism</Text>
+			<Text>Колониализм</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Colonialism[ENDCOLOR][NEWLINE]Newly founded cities start with 3 extra [ICON_CITIZEN] Population, a free Worker, 6 additional tiles claimed, and a Governor's Mansion which provides 3 [ICON_HAPPINESS_1] Happiness.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Колониализм[ENDCOLOR][NEWLINE]Новые города получают +3 [ICON_CITIZEN] гражданина, рабочего, 6 дополнительных клеток и усадьбу губернатора (+3 [ICON_HAPPINESS_1] настроения).</Text>
 		</Row>
 	</Language_RU_RU>
 	
@@ -135,13 +135,13 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_BUILDING_GOVERNORS_MANSION_DESC">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Governor's Mansion</Text>
+			<Text>Усадьба губернатора</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GOVERNORS_MANSION_PEDIA">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]A Governor's Mansion is automatically constructed in every newly founded city after you have adopted the Colonialism social policy.</Text>
+			<Text>Усадьба губернатора автоматически появляется в новом городе, если вы приняли общественный институт "Колониализм".</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GOVERNORS_MANSION_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Founding a new city when you have adopted Colonialism will give that city an additional 3 [ICON_CITIZEN] Population and 3 [ICON_HAPPINESS_1] Happiness as well as a Free Worker. The city will also claim 6 additional nearby tiles.</Text>
+			<Text>После принятия общественного института "Колониализм", новые города получают +3 [ICON_CITIZEN] гражданина, рабочего, 6 дополнительных клеток и усадьбу губернатора (+3 [ICON_HAPPINESS_1] настроения).</Text>
 		</Row>
 	</Language_RU_RU>
 

@@ -48,7 +48,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MERCANTILISM_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MERCANTILISM_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Mercantilism[ENDCOLOR][NEWLINE]Purchasing items in Cities requires 20% less [ICON_GOLD] Gold. +2 [ICON_RESEARCH] Science from every Mint, Market, Bank, and Stock Exchange.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Меркантилизм[ENDCOLOR][NEWLINE]Сокращает на 20% [ICON_GOLD] стоимость приобретаемых в городе объектов. +2 [ICON_RESEARCH] к науке за каждый монетный двор, рынок, банк и биржу.</Text>
 		</Row>
 	</Language_RU_RU>
 

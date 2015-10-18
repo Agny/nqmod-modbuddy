@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_MOBILIZATION_HELP" />
 		<Row Tag="TXT_KEY_POLICY_MOBILIZATION_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of purchasing units reduced by 25%.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Мобилизация[ENDCOLOR][NEWLINE][ICON_GOLD] Стоимость приобретения юнитов сокращается на 25%.</Text>
 		</Row>
 	</Language_RU_RU>
 

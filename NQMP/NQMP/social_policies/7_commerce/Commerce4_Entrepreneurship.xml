@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP" />
 		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Entrepreneurship[ENDCOLOR][NEWLINE]Maintenance paid on Roads and Railroads reduced by 50%. Maintenance paid on Buildings reduced by 25%. +2 [ICON_INTERNATIONAL_TRADE] Trade Routes.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Предпринимательство[ENDCOLOR][NEWLINE]Стоимость содержания дорог и железных дорог снижается на 50%. Снижает затраты на содержание зданий на 25%. Позволяет создать +2 [ICON_INTERNATIONAL_TRADE] торговых пути.</Text>
 		</Row>
 	</Language_RU_RU>
 	

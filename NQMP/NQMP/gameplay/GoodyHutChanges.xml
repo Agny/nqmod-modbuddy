@@ -49,7 +49,7 @@
 		</Row>
 		<Delete Tag="TXT_KEY_GOODY_CHOOSE_MAP" />
 		<Row Tag="TXT_KEY_GOODY_CHOOSE_MAP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][NEWLINE]Study their maps of nearby territory and barbarians.</Text>
+			<<Text>Изучить карты местного племени.</Text>
 		</Row>
 	</Language_RU_RU>
 

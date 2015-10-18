@@ -130,16 +130,16 @@
 	</Language_PL_PL>
 	<Language_RU_RU>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_1">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Ambush Formation I</Text>
+			<Text>Внезапность I</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_1_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+33% [ICON_STRENGTH] Combat Strength VS [COLOR_POSITIVE_TEXT]Mounted[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Armor[ENDCOLOR] units.</Text>
+			<Text>+33% [ICON_STRENGTH] к боевой мощи в сражениях против [COLOR_POSITIVE_TEXT]бронированных[ENDCOLOR] подразделений и [COLOR_POSITIVE_TEXT]кавалерии[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_2">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Ambush Formation II</Text>
+			<Text>Внезапность II</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_2_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+33% [ICON_STRENGTH] Combat Strength VS [COLOR_POSITIVE_TEXT]Mounted[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Armor[ENDCOLOR] units.</Text>
+			<Text>+33% [ICON_STRENGTH] к боевой мощи в сражениях против [COLOR_POSITIVE_TEXT]бронированных[ENDCOLOR] подразделений и [COLOR_POSITIVE_TEXT]кавалерии[ENDCOLOR].</Text>
 		</Row>
 	</Language_RU_RU>
 

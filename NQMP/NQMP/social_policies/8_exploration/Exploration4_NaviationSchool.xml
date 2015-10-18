@@ -24,7 +24,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP" />
 		<Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Navigation School[ENDCOLOR][NEWLINE]+3 [ICON_RESEARCH] Science in all coastal cities. +10% [ICON_STRENGTH] Combat Strength for Naval combat units.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Школа навигации[ENDCOLOR][NEWLINE]+3 [ICON_RESEARCH] во всех морских городах. +10% [ICON_STRENGTH] к боевой мощи флота.</Text>
 		</Row>
 	</Language_RU_RU>
 

@@ -85,19 +85,19 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT" />
 		<Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT">
-			<Text>[NEWLINE][COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Units that can settle new Cities may only be built in Cities with at least {1_Num} [ICON_CITIZEN] Citizens.</Text>
+			<Text>[NEWLINE]Создавать [ICON_CITIZEN] конкистадоров можно только в городах, население которых не меньше {1_Num} [ICON_CITIZEN].</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_MISSION_BUILD_CITY_HELP" />
 		<Row Tag="TXT_KEY_MISSION_BUILD_CITY_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Order this unit to found a city in its current location. It is consumed in the process.</Text>
+			<Text>Получив этот приказ, отряд заложит на этом месте город, после чего исчезнет из игры навсегда.</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_HELP" />
 		<Row Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Medieval Era unit that specializes in scouting and colonizing new lands. Unlocked by opening the Exploration social policy tree.</Text>
+			<Text>Средневековый отряд, специализирующийся на разведке и заселении новых земель. Доступен для найма после открытия общественного института "Мореплавание".</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_STRATEGY" />
 		<Row Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Conquistador, which is only available by opening the Exploration social policy tree, is a multi-purpose unit that serves as an exceptional scout on land with extra visibility and the ability to found new cities. In the water, the Conquistador has the defensive embarkation promotion that allows it to defend itself against naval units.</Text>
+			<Text>Конкистадоры становятся доступны после открытия общественного института "Мореплавание". Этот отряд хорошо подходит для разведки местности, т.к. обладает большим радиусом видимости. Может основывать города. Погружаясь на корабль, имеет возможность защищаться от атак вражеского флота.</Text>
 		</Row>
 	</Language_RU_RU>
 

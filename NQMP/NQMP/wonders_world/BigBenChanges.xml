@@ -29,7 +29,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_WONDER_BIG_BEN_HELP" />
 		<Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Commerce. Cost of [ICON_GOLD] Gold purchasing in all cities reduced by 12%.</Text>
+			<Text>Требуется коммерция. Стоимость [ICON_GOLD] покупки объектов во всех городах снижается на 12%.</Text>
 		</Row>
 	</Language_RU_RU>
 

@@ -33,7 +33,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP" />
 		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Commerce[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Commerce allows you to earn Great Merchants 50% faster. Unlocks building Big Ben.[NEWLINE][NEWLINE]Adopting all Policies in the Commerce tree will grant you 2 free Great Merchants and double [ICON_GOLD] Gold from Great Merchant Trade Missions. It also provides +1 [ICON_GOLD] Gold from Trading Posts and allows the purchase of Great Merchants with [ICON_PEACE] Faith starting in the Industrial Era.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Коммерция[ENDCOLOR] дает существенные преимущества тем, кто стремится получить побольше [ICON_GOLD] золота.[NEWLINE][NEWLINE]Принятие института коммерции ускорит появление великих торговцев на 50%. Открывает постройку Биг-Бена.[NEWLINE][NEWLINE]Принятие всех общественных институтов коммерции удваивает золото от сделок великих торговцев. Возле столицы появляются 2 великих торговца. Торговые посты дают +1 [ICON_GOLD]. Также позволяет приобретать великих торговцев за счет [ICON_PEACE] веры, начиная с новейшего времени.</Text>
 		</Row>
 	</Language_RU_RU>
 
