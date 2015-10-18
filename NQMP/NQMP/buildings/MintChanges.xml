@@ -50,11 +50,11 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_BUILDING_MINT_STRATEGY" />
 		<Row Tag="TXT_KEY_BUILDING_MINT_STRATEGY">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Mint can only be constructed in a city with improved gold, silver, or copper resources nearby. The Mint increases the [ICON_GOLD] Gold output of each such resource the city has access to.</Text>
+			<Text>Монетный двор можно строить только в городе, поблизости от которого имеется золотой, серебряный или медный рудник. Монетный двор увеличивает поступление золота с каждого такого ресурса в радиусе города.</Text>
 		</Row>
 		<Delete Tag="TXT_KEY_BUILDING_MINT_HELP" />
 		<Row Tag="TXT_KEY_BUILDING_MINT_HELP">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Each source of [ICON_RES_GOLD] Gold, [ICON_RES_SILVER] Silver, and [ICON_RES_COPPER] Copper worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have at least one of these resources mined nearby.</Text>
+			<Text>Каждое месторождение [ICON_RES_GOLD] золота, [ICON_RES_SILVER] серебра и [ICON_RES_COPPER] меди, разрабатываемое городом, дает +2 [ICON_GOLD] к золоту.[NEWLINE][NEWLINE]Город должен иметь поблизости хотя бы один такой рудник.</Text>
 		</Row>
 	</Language_RU_RU>
 

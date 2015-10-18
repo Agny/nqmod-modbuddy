@@ -30,7 +30,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL" />
 		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]+1 [ICON_RESEARCH] science for all specialists and +2 [ICON_RESEARCH] science for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Korean capital.</Text>
+			<Text>+1 [ICON_RESEARCH] к науке от всех специалистов и +2 [ICON_RESEARCH] от улучшений, сделанных великими людьми. При постройке научного здания или чуда в столице развитие науки временно ускоряется.</Text>
 		</Row>
 	</Language_RU_RU>
 	

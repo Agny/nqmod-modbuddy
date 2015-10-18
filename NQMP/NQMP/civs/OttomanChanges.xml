@@ -33,7 +33,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT" />
 		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Ottoman Tolerance</Text>
+			<Text>Османская терпимость</Text>
 		</Row>
 	</Language_RU_RU>
 	
@@ -58,7 +58,7 @@
 	<Language_RU_RU>
 		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS" />
 		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
-			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Each city gets +1 [ICON_HAPPINESS_1] Happiness for each World Religion with at least 1 follower in that city.</Text>
+			<Text>Города получают дополнительно +1 [ICON_HAPPINESS_1] настроения за каждую мировую религию, представленную хотя бы 1 последователем.</Text>
 		</Row>
 	</Language_RU_RU>
 	
